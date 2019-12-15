@@ -1,7 +1,7 @@
 # K-means-ClusteringGrouping-Universities-into-Public-and-Private
 In this, I have tried to group universities into 2 groups public and private. For this, I have used K-means clustering for the purpose.
 
-I used a data frame with 777 observations on the following 18 variables:
+I used a data frame with 777 observations on the following 18 variables:<br />
 -Private-> A factor with levels No and Yes indicating private or public university <br />
 -App->   Number of applications received<br />
 -Accept-> Number of applications accepted<br />
